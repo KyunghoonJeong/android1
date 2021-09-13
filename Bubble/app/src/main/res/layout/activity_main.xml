@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="108dp"
         android:fontFamily="sans-serif-smallcaps"
-        android:text="1 to 45"
+        android:text="1 to 44"
         android:textSize="42sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
